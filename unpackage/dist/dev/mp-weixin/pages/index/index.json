@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "u--image": "/node-modules/uview-ui/components/u--image/u--image",
+    "u-tabs": "/node-modules/uview-ui/components/u-tabs/u-tabs",
+    "home": "/components/Home/Home",
+    "news": "/components/News/News",
+    "count": "/components/Count/Count",
+    "price": "/components/Price/Price",
+    "shizhan": "/components/Shizhan/Shizhan",
+    "tixi": "/components/Tixi/Tixi",
+    "muke": "/components/Muke/Muke"
+  }
+}
